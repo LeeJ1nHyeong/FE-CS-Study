@@ -36,7 +36,7 @@
     <br/>
     <br/>
     <br/>
-    ![https 동작과정](./docs/https동작원리.png)
+![](./docs/https동작원리.png)
 
 ---
 
