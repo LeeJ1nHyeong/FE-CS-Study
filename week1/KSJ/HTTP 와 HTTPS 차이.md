@@ -36,7 +36,7 @@
     <br/>
     <br/>
     <br/>
-    ![https 동작과정](./https_flow_abstract.webp)
+    ![https 동작과정](./https동작원리.png)
 
 ---
 
